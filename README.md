@@ -1,4 +1,4 @@
-#Yoinked from Justin Schuh so I can experiment with it
+#Yoinked from Justin Schuh (https://github.com/jschuh) so I can experiment with it
 
 # klipper-macros
 
