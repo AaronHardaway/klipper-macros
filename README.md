@@ -73,7 +73,7 @@ printers. However, there are also some nice extras:
 
 If you've followed the troubleshooting steps and were unable to resolve the
 issue you can [report a bug via Github](
-https://github.com/jschuh/klipper-macros/issues/new/choose). I will probably
+https://github.com/aaronhardaway/klipper-macros/issues/new/choose). I will probably
 respond within a few days (almost certainly within a week). I probably won't
 respond through other channels (e.g. Discord, Twitter), because I don't find
 them useful for handling bug reports.
@@ -116,7 +116,7 @@ To install the macros, first clone this repository inside of your
 `printer_data/config` directory with the following command.
 
 ```
-git clone https://github.com/jschuh/klipper-macros.git
+git clone https://github.com/aaronhardaway/klipper-macros.git
 ```
 
 Then paste the below sections into your `printer.cfg` to get started. Or even
